@@ -43,7 +43,7 @@ If you use this work, please cite:
   title  = {Cost–Access Trade-offs for Newcomers in Canada},
   author = {Nemhara, Justina and Ajilore, Precious and Titiloye, Koyinsola},
   year   = {2025},
-  url    = {https://github.com/<YOUR-ORG>/<YOUR-REPO>}
+  url    = {https://github.com/preciousiajilore/BDG}
 }
 ```
 ## 📄 License
