@@ -45,8 +45,9 @@ If you use this work, please cite:
   year   = {2025},
   url    = {https://github.com/<YOUR-ORG>/<YOUR-REPO>}
 }
-##📄 License
-Code: MIT License
+```
+## 📄 License
+- **Code: MIT License
 
-Data: © Statistics Canada – open micro-data reproduced under the Statistics Canada Open Licence.
+- **Data: © Statistics Canada – open micro-data reproduced under the Statistics Canada Open Licence.
 
