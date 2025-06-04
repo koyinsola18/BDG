@@ -47,7 +47,7 @@ If you use this work, please cite:
 }
 ```
 ## 📄 License
-- **Code: MIT License
+- Code: MIT License
 
-- **Data: © Statistics Canada – open micro-data reproduced under the Statistics Canada Open Licence.
+- Data: © Statistics Canada – open micro-data reproduced under the Statistics Canada Open Licence.
 
