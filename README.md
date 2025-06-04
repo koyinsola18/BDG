@@ -21,4 +21,10 @@ Our maps, box-plots, and non-parametric tests pinpoint **where** planners should
 
 ---
 
-## 🗂️ Repository Structure
+
+## 📊 Key Findings
+| Figure | Insight |
+|--------|---------|
+| **Fig A** | **Toronto** – refugee-dominant ADAs cluster downtown; post-secondary index is **2 ×** higher (p = 0.03). |
+| **Fig B** | **Alberta** – **93 %** of ADAs score **0.00** for post-secondary → genuine service deserts outside Calgary / Edmonton. |
+| **Heat-map** | Across four CMAs, access peaks correlate with the **highest rents** (Spearman ρ = 0.71). |
