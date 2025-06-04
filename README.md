@@ -22,5 +22,18 @@ We merge lived-experience stories with Statistics Canada Spatial Access Measures
    * White halo + cyan outline on refugee-dominant ADAs for legibility.
 
 ---
+## 📊 Key findings
 
+| Figure | Insight |
+|-------|---------|
+| **Fig A** | **Toronto** – refugee-dominant ADAs cluster in the downtown core; post-secondary access index is **2× higher** than in surrounding suburbs (<em>p</em> = 0.03). |
+| **Fig B** | **Alberta** – 93 % of ADAs score **0.00** for post-secondary access, creating service deserts outside Calgary and Edmonton. |
+| **Heat-map** | Across the four CMAs, access peaks strongly track the **highest rents** (Spearman ρ = 0.71). |
+
+@misc{JPK2025,
+  title  = {Cost–Access Trade-offs for Newcomers in Canada},
+  author = {Justina M., Precious A., Koyinsola T.},
+  year   = 2025,
+  url    = {https://github.com/<YOUR-ORG>/cost-access-tradeoffs}
+}
 
