@@ -30,6 +30,7 @@ We merge lived-experience stories with Statistics Canada Spatial Access Measures
 | **Fig B** | **Alberta** – 93 % of ADAs score **0.00** for post-secondary access, creating service deserts outside Calgary and Edmonton. |
 | **Heat-map** | Across the four CMAs, access peaks strongly track the **highest rents** (Spearman ρ = 0.71). |
 
+## 📚 Citation
 @misc{JPK2025,
   title  = {Cost–Access Trade-offs for Newcomers in Canada},
   author = {Justina M., Precious A., Koyinsola T.},
