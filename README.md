@@ -33,3 +33,20 @@ Our maps, box-plots, and non-parametric tests pinpoint **where** planners should
 - **Pin-point the gaps:** Use the index maps to identify the *lowest-scoring ADAs* and make them first-priority investment zones.  
 - **Build where people will live:** Extend rapid-transit lines beyond downtown rings **and** co-locate new student / newcomer housing at those upgraded hubs.  
 - **Deploy services, not just data:** Partner with **Local Immigration Partnerships (LIPs)** to pilot satellite primary-care clinics and mobile credential-recognition or bridging-programme units in the mapped service deserts.  
+
+## 🔗 Citation  
+
+If you use this work, please cite:
+
+```bibtex
+@misc{JPK2025,
+  title  = {Cost–Access Trade-offs for Newcomers in Canada},
+  author = {Nemhara, Justina and Ajilore, Precious and Titiloye, Koyinsola},
+  year   = {2025},
+  url    = {https://github.com/<YOUR-ORG>/<YOUR-REPO>}
+}
+##📄 License
+Code: MIT License
+
+Data: © Statistics Canada – open micro-data reproduced under the Statistics Canada Open Licence.
+
