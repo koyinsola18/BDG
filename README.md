@@ -28,3 +28,8 @@ Our maps, box-plots, and non-parametric tests pinpoint **where** planners should
 | **Fig A** | **Toronto** – refugee-dominant ADAs cluster downtown; post-secondary index is **2 ×** higher (p = 0.03). |
 | **Fig B** | **Alberta** – **93 %** of ADAs score **0.00** for post-secondary → genuine service deserts outside Calgary / Edmonton. |
 | **Heat-map** | Across four CMAs, access peaks correlate with the **highest rents** (Spearman ρ = 0.71). |
+
+## 🏛️ Policy Implications  
+- **Pin-point the gaps:** Use the index maps to identify the *lowest-scoring ADAs* and make them first-priority investment zones.  
+- **Build where people will live:** Extend rapid-transit lines beyond downtown rings **and** co-locate new student / newcomer housing at those upgraded hubs.  
+- **Deploy services, not just data:** Partner with **Local Immigration Partnerships (LIPs)** to pilot satellite primary-care clinics and mobile credential-recognition or bridging-programme units in the mapped service deserts.  
